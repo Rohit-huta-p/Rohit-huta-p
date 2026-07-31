@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Rohit+Hutagonna;Full-Stack+Engineer+(JS+%2B+Java+%2B+AI);I+ship+products+end-to-end" alt="Rohit Hutagonna" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Rohit+Hutagonna;Full-Stack+Engineer+(JS+%2B+Java+%2B+AI);I+ship+products+end-to-end" alt="Rohit Hutagonna" />
 
 <br/>
 
